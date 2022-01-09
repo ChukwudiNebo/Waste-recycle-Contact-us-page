@@ -1,0 +1,1 @@
+$('[data-aos]').parent().addClass('hideOverflowOnMobile');
